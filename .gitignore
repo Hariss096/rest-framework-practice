@@ -1,0 +1,9 @@
+# virtual environment
+/.venv
+
+/tutorial/snippets/__pycache__
+/tutorial/snippets/migrations
+
+/tutorial/tutorial/__pycache__
+
+/.vscode
